@@ -10,6 +10,7 @@ terraform {
 }
 
 # Configure the Microsoft Azure Provider
+#This line add to change the code in masterfeature branch.and mearge to master branch.
 provider "azurerm" {
   features {}
 }
